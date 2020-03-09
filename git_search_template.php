@@ -48,7 +48,7 @@
 				-->
 				<div class="content blog-page">				
 					<form method="post" action="">
-						<h2>Very Unique Snowflake GitHub Search</h2>
+						<h2>GitHub Search</h2>
 						<hr>	
 						<p><label for="username">Search for user:</label>
 						<input type="text" id="username" name="username" value="<?=($_POST['username'] ? htmlentities($_POST['username']) : '')?>" /></p>
